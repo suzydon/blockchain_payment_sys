@@ -1,0 +1,5 @@
+Start Ganache (local Ethereum blockchain).
+
+Deploy the contract:
+
+truffle migrate --reset
